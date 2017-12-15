@@ -1,0 +1,7 @@
+edu                 siue                cs                  www                 
+edu                 siue                math                www                 
+edu                 uiuc                phys                
+com                 apple               developer           
+com                 mdn                 developer           
+com                 wikipedia           www                 
+org                 bluej               
